@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ceremony &#8211; Horizon Festival | Sunshine Coast</title>
+	<atom:link href="/news/whats-on/category/ceremony/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Presenting 10 days and nights of visual art, music, theatre, dance, words + ideas, film and creative workshops; inspired by the stories and beauty of the Sunshine Coast.</description>
+	<lastBuildDate>Sat, 02 Sep 2023 13:13:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Dawn Awakening</title>
+		<link>/event/dawn-awakening/</link>
+		
+		<dc:creator><![CDATA[ben]]></dc:creator>
+		<pubDate>Tue, 30 May 2023 23:57:04 +0000</pubDate>
+				<guid isPermaLink="false">https://www.horizonfestival.com.au/?post_type=event&#038;p=4731</guid>
+
+					<description><![CDATA[Gather with us along the banks of Stumers Creek in Coolum as the first light rises and the voices of First Peoples call in a new energy for these times. Together we will journey through story, dance, song, visual art projections, spoken word and fire installations, to reflect, strengthen and testify a flourishing connection to &#8230; <a href="/event/dawn-awakening/">More ></a>]]></description>
+										<content:encoded><![CDATA[<p>Gather with us along the banks of Stumers Creek in Coolum as the first light rises and the voices of First Peoples call in a new energy for these times. Together we will journey through story, dance, song, visual art projections, spoken word and fire installations, to reflect, strengthen and testify a flourishing connection to country, culture and each other. Stumers Creek Rd is closed for this...</p>
+<p><a href="/event/dawn-awakening/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Opening Ceremony</title>
+		<link>/event/opening-ceremony/</link>
+		
+		<dc:creator><![CDATA[ben]]></dc:creator>
+		<pubDate>Tue, 30 May 2023 23:47:29 +0000</pubDate>
+				<guid isPermaLink="false">https://www.horizonfestival.com.au/?post_type=event&#038;p=4722</guid>
+
+					<description><![CDATA[As the sun sets, ground your feet, as we gather on the shores of the Maroochy River, to celebrate and pay our respects to Traditional Custodians of the waterways, coastal plains and hinterlands of the Sunshine Coast, the Kabi Kabi and Jinibara peoples, and open the eighth Horizon Festival 2023. Come, sit, reflect, and welcome &#8230; <a href="/event/opening-ceremony/">More ></a>]]></description>
+										<content:encoded><![CDATA[<p>As the sun sets, ground your feet, as we gather on the shores of the Maroochy River, to celebrate and pay our respects to Traditional Custodians of the waterways, coastal plains and hinterlands of the Sunshine Coast, the Kabi Kabi and Jinibara peoples, and open the eighth Horizon Festival 2023. Come, sit, reflect, and welcome the start of 10 days and nights of rich programming from across the...</p>
+<p><a href="/event/opening-ceremony/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Film &#8211; Horizon Festival | Sunshine Coast</title>
+	<atom:link href="/news/whats-on/category/film/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Presenting 10 days and nights of visual art, music, theatre, dance, words + ideas, film and creative workshops; inspired by the stories and beauty of the Sunshine Coast.</description>
+	<lastBuildDate>Tue, 29 Aug 2023 02:18:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Living Waters: A Short Film Event</title>
+		<link>/event/living-waters-a-short-film-event/</link>
+		
+		<dc:creator><![CDATA[ben]]></dc:creator>
+		<pubDate>Wed, 31 May 2023 02:03:49 +0000</pubDate>
+				<guid isPermaLink="false">https://www.horizonfestival.com.au/?post_type=event&#038;p=4769</guid>
+
+					<description><![CDATA[Join us for LIVING WATERS: A SHORT FILM EVENT where we will be exploring humanity&#8217;s unique, spiritual and ecological relationship to water, featuring: TWO KINDS OF WATER (Senegal, Africa) tells the story of the unbreakable bond between a fisherman and his wife as they fight to keep their young family afloat in one of Africa’s most vulnerable fishing &#8230; <a href="/event/living-waters-a-short-film-event/">More ></a>]]></description>
+										<content:encoded><![CDATA[<p>Join us for LIVING WATERS: A SHORT FILM EVENT where we will be exploring humanity&rsquo;s unique, spiritual and ecological relationship to water, featuring: TWO KINDS OF WATER (Senegal, Africa) tells the story of the unbreakable bond between a fisherman and his wife as they fight to keep their young family afloat in one of Africa&rsquo;s most vulnerable fishing villages. In John Harvey&rsquo;s award winning film...</p>
+<p><a href="/event/living-waters-a-short-film-event/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
